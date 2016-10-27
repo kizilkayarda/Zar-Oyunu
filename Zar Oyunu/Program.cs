@@ -42,6 +42,7 @@ namespace Zar_Oyunu
                         zarlar[i, 1] = zarlarTampon[i, 1];
                     }
 
+
                     zar1 = rnd.Next(1, 7);
                     zar2 = rnd.Next(1, 7);
 
