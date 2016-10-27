@@ -57,6 +57,7 @@ namespace Zar_Oyunu
                     {
                         Console.WriteLine(sayac + ". denemede bulundu");
                         break;
+
                     }
                 } while (true);
                 Console.WriteLine("Tekrar oynamak için \"E\" tuşuna basınız");
